@@ -8,7 +8,6 @@ My name is Travis
 
 * I’m looking to collaborate on **data focused projects**, especially projects involving healthcare, public datasets, APIs, automation or ETL pipelines.
 
-* How to reach me: **[LinkedIn](www.linkedin.com/in/travis-m-07454977)**
+* How to reach me: **[LinkedIn](https://www.linkedin.com/in/travis-m-07454977/)**
 
-* Fun fact: **My background is in behavioral healthcare, and I’m now using that experience to build data projects around problems and datasets I actually care about.**
 
